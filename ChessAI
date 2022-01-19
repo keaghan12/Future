@@ -1,0 +1,16 @@
+I want to create a program that willactively play chess against the user. 
+
+I am currrently in the process of making a chess game that will allow two players to play eachother. 
+I want to add a 1 player option that will allow the program to choose the moves, and give it a strategy. 
+I have played a lot of chess, and it would be interesting to try to teach the basics of positional understanding. 
+My goal for this would be to create a program that can beat me consistently. 
+It would be interesting to learn more about the implementation of these logic base decisions the computer would be requierd to make. 
+
+I think this could be a part of the same file as the current chess game, and could be included as such. 
+
+Very far into the future, I would be interested in trying to learn how machine learning works. 
+I would create a very basic script that would allow the machine to learn how to make better moves. 
+
+I don't have a timeline for any of this. 
+Once I complete the chesss game, I might go staight for a basic chess AI.
+There are most definitely in between steps that I need to go through to build a base before trying to implement machine learning. 
