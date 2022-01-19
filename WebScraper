@@ -1,0 +1,13 @@
+I want to learn about Web Scraping, and no better way to do it than by building a program with it. 
+
+I intend to do something useful with it, like maybe making a simple website. 
+
+I would make all of the information that I regularly google avaliable readily for me in one click. 
+
+I could see this website doing something convenient for me like telling the scores of the previous nights nba games, and telling me who plays that night. 
+I would have the website check for weather
+The webite could contain my schedule for the day, and the upcoming days. (Can check for upcoming school deliverables). 
+I don't know how apple's API works but I might be able to make it tell me how many steps I have for the day. 
+
+Ideally, this would be hosted for free in the cloud somehow. I'm not entirely sure how I can make this work. 
+Flask is typically a highly recommended way to buld a website in python, so I would imagine it would work well for this project. 
